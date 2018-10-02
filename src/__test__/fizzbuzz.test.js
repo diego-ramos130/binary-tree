@@ -1,6 +1,6 @@
 'use strict';
 
-const fizzBuzz = require('../lib/fizzbuzz');
+const fizzBuzz = require('../lib/fizzBuzzTree');
 const Node = require('../lib/Node');
 const Tree = require('../lib/Tree');
 
