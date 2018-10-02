@@ -11,3 +11,5 @@ use three functions:
     - takes in a root and traverses through the binary tree recursively, calling check() on the way.
 - check(node)
     - takes in the current node, checks if its value is divisible by 3, 5, or both, and changes the value accordingly.
+# WHITEBOARD
+![Whiteboard Image](20181002_154103.jpg)
