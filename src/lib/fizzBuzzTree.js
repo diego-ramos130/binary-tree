@@ -19,7 +19,7 @@ function traversal(root) {
   return undefined;
 }
 
-module.exports = function fizzBuzz(tree) {
+module.exports = function fizzBuzzTree(tree) {
   traversal(tree.root);
   return tree;
 };
