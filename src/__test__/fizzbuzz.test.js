@@ -41,5 +41,5 @@ describe('fizzbuzz binary tree replacer', () => {
     expect(real.root.right.right.value).toEqual('fizzbuzz');
     expect(real.root.right.left.value).toEqual(4);
     expect(real.root.left.left.value).toEqual(2);
-  })
+  });
 });
